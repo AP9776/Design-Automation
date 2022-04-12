@@ -1,2 +1,2 @@
 # Design-Automation
-Automation of design task in CAD environment using AutoLISP
+Automation of design tasks in CAD environment using AutoLISP
