@@ -1,5 +1,5 @@
 # Design-Automation
-Automation of design tasks in CAD environment using AutoLISP.
+Automation of design tasks in CAD environment.
 # Correction of conventional structural drawings using AutoLISP, a case study.
 This program uses geometrical properties of a conventional building drawings to achieve its goals.
 Then, it Corrects the placement of steel rebars in reinforced-concrete columns in the first floor.
